@@ -68,11 +68,13 @@ h1{
     margin-bottom: -50px;
 }
 #Message {
+	margin:auto;
     position: relative;
     text-align: center;
     margin-top: 60px;
     margin-bottom: -20px;
     font-size: 40px;
+    width:700px;
 }
 .Tab  {
 	margin:auto;
@@ -88,3 +90,4 @@ td {
     background-color: gray;
     border: 2px solid black;
 }
+
